@@ -1,16 +1,27 @@
-## Hi there 👋
 
-<!--
-**vibecodewithaayush/vibecodewithaayush** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi 👋, I'm Aayush</h1>
+<h3 align="center">Aspiring Software Developer | Learning to Code 🚀</h3>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌱 Currently Learning
+- Programming fundamentals
+- Web development & AI basics
+- Writing clean and efficient code
+
+---
+
+### 🔥 Goals for 2025
+- Build and deploy real projects
+- Contribute to open-source
+- Gain strong coding + problem-solving skills
+
+---
+
+### 📫 Connect with Me  
+- LinkedIn: www.linkedin.com/in/aayush-bandarkar-64b058342
+
+---
+
+⭐️ *Work in progress — just like great developers always are!*
+
