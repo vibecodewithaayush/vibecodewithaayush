@@ -11,7 +11,7 @@
 
 ---
 
-### 🔥 Goals for 2025
+### 🔥 Goals for 2026
 - Build and deploy real projects
 - Contribute to open-source
 - Gain strong coding + problem-solving skills
